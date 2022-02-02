@@ -2,9 +2,10 @@
 Demonstration of Eye image segmentation using popular segmentation framework U-net to custom double U-net: from preparation, training, analysis
 
 ***workflow order (Logical)***
+
 0. Data Preparation & Visualization.ipynb
-1. L2_model-training.ipynb
-2. L2-Testing& Analysis.ipynb
+1. Training.ipynb
+2. Testing& Analysis.ipynb
 
 **Note:** Data is not provided due to proprietary reasons. Any consistent RGB images of your choosing would be compatible with the workflow given images and ground truth masks.
 
