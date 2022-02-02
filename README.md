@@ -9,7 +9,7 @@ Data Preparation & Visualization.ipynb
 2. L2-Testing& Analysis.ipynb
 
 ***File Structure***
-''' bash
+``` bash
 ../(parent folder)
 ├── code
 │   ├── 0. Data Preparation & Visualization.ipynb
@@ -61,4 +61,4 @@ Data Preparation & Visualization.ipynb
 <br />    └── Model-FPN_transfer-vgg (pre only)_.E54-L.h5-iou.csv
 
 <br />22 directories
-'''
+```
