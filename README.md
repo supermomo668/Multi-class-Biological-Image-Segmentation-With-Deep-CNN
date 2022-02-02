@@ -14,8 +14,8 @@ Demonstration of Eye image segmentation using popular segmentation framework U-n
 ../(parent folder)
 ├── code
 │   ├── 0. Data Preparation, Visualization.ipynb
-│   ├── 1. L2_model-training.ipynb
-│   ├── 2. L2-Testing, Analysis.ipynb
+│   ├── 1. Training.ipynb
+│   ├── 2. Testing, Analysis.ipynb
 │   └── U2-net_PT-Custom.ipynb
 ├── L2-coding challenge submission.pdf
 ├── L2-data
