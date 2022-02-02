@@ -8,7 +8,8 @@ Data Preparation & Visualization.ipynb
 1. L2_model-training.ipynb
 2. L2-Testing& Analysis.ipynb
 
-*** File Structure ***
+***File Structure***
+
 ../(parent folder)
 ├── code
 │   ├── 0. Data Preparation & Visualization.ipynb
