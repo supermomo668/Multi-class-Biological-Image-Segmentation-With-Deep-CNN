@@ -1,0 +1,11 @@
+img_id,pupil,iris
+000008437_Ycrop_Hres_L,"tf.Tensor(0.81006885, shape=(), dtype=float32)","tf.Tensor(0.8458474, shape=(), dtype=float32)"
+000008491_Ycrop_Hres_R,"tf.Tensor(0.81037146, shape=(), dtype=float32)","tf.Tensor(0.77470696, shape=(), dtype=float32)"
+000008624_Ycrop_Hres_R,"tf.Tensor(0.91039866, shape=(), dtype=float32)","tf.Tensor(0.9231498, shape=(), dtype=float32)"
+000008636_Ycrop_Hres_L,"tf.Tensor(0.91269225, shape=(), dtype=float32)","tf.Tensor(0.8561498, shape=(), dtype=float32)"
+000008752_Ycrop_Hres_L,"tf.Tensor(0.766292, shape=(), dtype=float32)","tf.Tensor(0.86467445, shape=(), dtype=float32)"
+000008763_Ycrop_Hres_R,"tf.Tensor(0.83551997, shape=(), dtype=float32)","tf.Tensor(0.85176235, shape=(), dtype=float32)"
+000008905_Ycrop_Hres_L,"tf.Tensor(0.90428567, shape=(), dtype=float32)","tf.Tensor(0.86824393, shape=(), dtype=float32)"
+000008962_Ycrop_Hres_L,"tf.Tensor(0.7562413, shape=(), dtype=float32)","tf.Tensor(0.6704369, shape=(), dtype=float32)"
+000009122_Ycrop_Hres_L,"tf.Tensor(0.6516967, shape=(), dtype=float32)","tf.Tensor(0.8255997, shape=(), dtype=float32)"
+000009187_Ycrop_Hres_R,"tf.Tensor(0.87643176, shape=(), dtype=float32)","tf.Tensor(0.82279015, shape=(), dtype=float32)"
