@@ -8,7 +8,7 @@ Data Preparation & Visualization.ipynb
 1. L2_model-training.ipynb
 2. L2-Testing& Analysis.ipynb
 
-***File Structure***
+***File Structure (Project essential)***
 ``` bash
 ../(parent folder)
 ├── code
@@ -18,8 +18,6 @@ Data Preparation & Visualization.ipynb
 │   └── U2-net_PT-Custom.ipynb
 ├── L2-coding challenge submission.pdf
 ├── L2-data
-│   ├── Coding Challenge Image Example2a.png
-│   ├── Coding Challenge Image Example2b.png
 │   ├── data_index.csv
 │   ├── generator
 │   │   ├── U2net_transfer-vgg
@@ -53,12 +51,9 @@ Data Preparation & Visualization.ipynb
 │       │   ├── 000008373_Ycrop_Hres_R.png
 │       │   ├── ....(Your training input images)
 ├── Models
-│   ├── U2net_transfer-vgg
-│   ├── Unet_transfer-FPN
-│   └── Unet_transfer-vgg
+
 └── Results
-    ├── Model-FPN_transfer-vgg (pre only)_.E106-L.h5-errors.csv
-<br />    └── Model-FPN_transfer-vgg (pre only)_.E54-L.h5-iou.csv
+
 
 <br />22 directories
 ```
