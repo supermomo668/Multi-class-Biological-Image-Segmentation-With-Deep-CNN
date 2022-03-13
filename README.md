@@ -1,6 +1,8 @@
 # Multi-class-Biological-Image-Segmentation
 Demonstration of Eye image segmentation using popular segmentation framework U-net to custom double U-net: from preparation, training, analysis
 
+![alt text](https://github.com/supermomo668/Multi-class-Biological-Image-Segmentation/blob/main/Results/Iris_pupil_predicted.JPG?raw=true)
+
 ***workflow order (Logical)***
 
 0. Data Preparation & Visualization.ipynb
